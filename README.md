@@ -1,7 +1,7 @@
 # ListeCardAngular
 An angular project which show a list of card. 
 
-Each card can be modified, deleted or added.
+Each card can be modified, deleted or you can create your own cards.
 
 There is also a login feature. To access the list of card, you need to log in first.
 
