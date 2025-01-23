@@ -9,4 +9,13 @@ The project work with an API and was done with the help of a tutorial. https://w
 
 the API requiered to login is : https://gitlab.com/simpletechprod1/playing_cards_backend
 
-For Windows user, you will need to run **venv\Scripts\activate** instead of **source .venv/bin/activate**
+For Windows users, you will need to run 
+````
+venv\Scripts\activate
+````
+ instead of 
+ ````
+ source .venv/bin/activate
+````
+to run the API in a virtual environment.
+
